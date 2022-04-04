@@ -3,7 +3,7 @@
 
 <div align="center">
   
-  [![KICHU-SER-V3 Whatsapp Bot](https://readme-typing-svg.herokuapp.com?font=times-bold-italic&color=%23000000&duration=4862&center=true&vCenter=true&lines=WELCOME+TO+KICHU-SER-V3+WHATSAPP+BOT)](https://github.com/Itsme-soman/KICHU-SER-V3)
+  [![KICHU-SER-V3 Whatsapp Bot](https://readme-typing-svg.herokuapp.com?font=times-bold-italic&color=%23000000&duration=4862&center=true&vCenter=true&lines=HEY+WELCOME+TO+KICHU-SER-V3+WHATSAPP+BOT)](https://github.com/Itsme-soman/KICHU-SER-V3)
 </div>
 <div align="center">
   <img border-radius: 15px src="https://telegra.ph/file/d4753818ba4a1d159c0a6.jpg" width="200" height="200"/>
