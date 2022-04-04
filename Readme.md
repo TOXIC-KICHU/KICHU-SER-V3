@@ -3,10 +3,10 @@
 
 <div align="center">
   
-  [![KICHU-SER-V3 Whatsapp Bot](https://readme-typing-svg.herokuapp.com?font=times-bold-italic&color=%FFF01&duration=4862&center=true&vCenter=true&lines=WELCOME+TO+KICHU-SER-V3+WHATSAPP+BOT)](https://github.com/Itsme-soman/KICHU-SER-V3)
+  [![KICHU-SER-V3 Whatsapp Bot](https://readme-typing-svg.herokuapp.com?font=times-bold-italic&color=%23000000&duration=4862&center=true&vCenter=true&lines=WELCOME+TO+KICHU-SER-V3+WHATSAPP+BOT)](https://github.com/Itsme-soman/KICHU-SER-V3)
 </div>
 <div align="center">
-  <img border-radius: 15px src="https://i.imgur.com/Pf1Wynm.png" width="200" height="200"/>
+  <img border-radius: 15px src="https://telegra.ph/file/d4753818ba4a1d159c0a6.jpg" width="200" height="200"/>
 
 <p align="center">
   <a href="https://instagram.com/kichu_nrd"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
@@ -14,18 +14,15 @@
 </p>
 <div align="center">
   
-## JOIN MILLIE WHATSAPP GROUP
+## JOIN KICHU-SER-V3 WHATSAPP GROUP
 
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png?size=1)](https://chat.whatsapp.com/BcOf8vB5KAlFQhb3c5d06b)
  
-## Yotube Tutorial If You have any doubts 
-  
-  [![Watch Tutorial](https://img.youtube.com/vi/5ox6VPzVSKs/0.jpg)](https://www.youtube.com/watch?v=5ox6VPzVSKs)
 
 ## `FORK AND CHANGE SETTINGS`
 
-- OWNER NUMBER         [`CLICK HERE`](https://github.com/Neeraj-x0/Millie/blob/main/config.js#L2)
-- SESSION           [`Click Here`](https://github.com/Neeraj-x0/Millie/blob/main/session.data.json#L1)
+- OWNER NUMBER         [`CLICK HERE`](https://github.com/Itsme-soman/KICHU-SER-V3/blob/main/config.js#L2)
+- SESSION           [`Click Here`](https://github.com/Itsme-soman/KICHU-SER-V3/blob/main/session.data.json#L1)
 
 <div align="left">
 
@@ -37,7 +34,7 @@
 
 ### DEPLOY
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Neeraj-x0/Millie)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Itsme-soman/KICHU-SER-V3)
 
 
 ### CHANGE DYNO
@@ -45,7 +42,7 @@
 ###### MUST TURN OFF WEB NODE SERVER AND ENABLE WORKER NPM START TO WORK YOUR BOT PROPERLY
 
 <p align="LEFT">
-  <a href="https://github.com/Neeraj-x0/Millie"><img src="https://telegra.ph/file/c38e56370ba19bb784699.jpg" />
+  <a href="https://github.com/Itsme-soman/KICHU-SER-V3"><img src="https://telegra.ph/file/c38e56370ba19bb784699.jpg" />
 </p>
 
   
@@ -57,8 +54,8 @@ apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
 apt install imagemagick -y
-git clone https://github.com/Neeraj-x0/Millie
-cd Millie
+git clone https://github.com/Itsme-soman/KICHU-SER-V3
+cd KICHU-SER-V3
 npm install
 npm update
 ```
@@ -86,14 +83,14 @@ apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpa
 
 ---------
 
-##### [ INSTALLING NODEJS & MILLIE ]
+##### [ INSTALLING NODEJS & KICHU-SER-V3 ]
 
 ```bash
 ubuntu
 curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
 apt install -y nodejs gcc g++ make
-git clone https://github.com/Neeraj-x0/Millie
-cd Millie
+git clone https://github.com/Itsme-soman/KICHU-SER-V3
+cd KICHU-SER-V3
 npm install
 npm update
 ```
@@ -108,8 +105,8 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/Neeraj-x0/Millie
-cd Millie
+git clone https://github.com/Itsme-soman/KICHU-SER-V3
+cd KICHU-SER-V3
 npm install
 npm update
 ```
@@ -194,7 +191,7 @@ conn.logger.level = 'debug'
 
 ## Settings
 
-Now set using switch [enable.js](https://github.com/Neeraj-x0/Millie/blob/master/plugins/enable.js), among others are
+Now set using switch [enable.js](https://github.com/Itsme-soman/KICHU-SER-V3/blob/master/plugins/enable.js), among others are
 
 ```js
 anticall: false, // Auto Reject better than autoblock
@@ -223,6 +220,6 @@ Base, Bug Fixes, Modules | Bug fixes, Modules | Bug Fixes, Modules
   
 ### THANKS TO :
   
-- [Nurutomo](https://github.com/Nurutomo) 
+- [KICHU](https://github.com/Itsme-soman) 
 - [adiwajshing/Baileys](https://github.com/adiwajshing/Baileys)
  
