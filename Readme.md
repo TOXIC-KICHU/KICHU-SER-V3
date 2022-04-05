@@ -36,15 +36,6 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Itsme-soman/KICHU-SER-V3)
 
-
-### CHANGE DYNO
-
-###### MUST TURN OFF WEB NODE SERVER AND ENABLE WORKER NPM START TO WORK YOUR BOT PROPERLY
-
-<p align="LEFT">
-  <a href="https://github.com/Itsme-soman/KICHU-SER-V3"><img src="https://telegra.ph/file/c38e56370ba19bb784699.jpg" />
-</p>
-
   
   ## FOR TERMUX/UBUNTU/SSH USER
 
