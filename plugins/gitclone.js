@@ -2,7 +2,7 @@ let regex = /(?:https|git)(?::\/\/|@)github\.com[\/:]([^\/:]+)\/(.+)/i
 let fetch = require('node-fetch')
 let handler = async (m, { args, usedPrefix, command }) => {
 
-    if (!args[0]) throw 'where is the github link? example: https://github.com/Neeraj-x0/Millie'
+    if (!args[0]) throw 'where is the github link? example: https://github.com/Itsme-soman/KICHU-SER-V3'
 
     if (!regex.test(args[0])) throw 'wrong link!'
 
