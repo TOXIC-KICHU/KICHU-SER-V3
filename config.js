@@ -35,7 +35,7 @@ global.APIKeys = { // The APIKey is here
 const spack = fs.readFileSync("lib/exif.json")
 const stickerpack = JSON.parse(spack)
 if (stickerpack.spackname == '') {
-  var sticker_name = 'KICHU-SER-V3,κιcнusᴇʀ❤'
+  var sticker_name = 'KICHU-SER-V3❤'
 } else {
   var sticker_name = stickerpack.spackname
 }
