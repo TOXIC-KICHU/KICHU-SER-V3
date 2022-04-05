@@ -6,7 +6,7 @@ let fetch = require('node-fetch')
 let moment = require('moment-timezone')
 const defaultMenu = {
     before: `╭────────────────╮
-          ✪  *ᴍɪʟʟɪᴇ* ✪           
+          ❤  *κιcнusᴇʀ-v³* ❤           
 ╰────────────────╯
        
   `.trimStart(),
@@ -14,14 +14,14 @@ const defaultMenu = {
   body: '├ %cmd',
   footer: '└────\n',
   after: `
-   ᴹᴵᴸᴸᴵᴱ
+   κιcнusᴇʀ-v³
    ᴹᴼᴰᵁᴸᴬᴿ ᵂᴴᴬᵀᔆᴬᴾᴾ ᴮᴼᵀ
 `,
 }
 let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
   let tags
   let teks = `${args[0]}`.toLowerCase()
-  let arrayMenu = ['git', 'game', 'xp', 'stiker','quotes', 'admin', 'grup', 'premium', 'internet', 'anonymous', 'nulis', 'downloader', 'tools','anime','videomaker', 'fun', 'database', 'audio','info','owner']
+  let arrayMenu = ['git', 'game', 'xp', 'sticker','quotes', 'admin', 'grup', 'premium', 'internet', 'anonymous', 'nulis', 'downloader', 'tools','anime','videomaker', 'fun', 'database', 'audio','info','owner']
   if (!arrayMenu.includes(teks)) teks = '404'
   if (teks == 'all') tags = {
     'main': 'Main',
@@ -166,8 +166,8 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
 ╭━━━━━━ᆫ ᴍᴇɴᴜ ᄀ━━━━━━
 ┃ ⎆  Oi ${ucapan()}
 ┃ ⎆  *NAME* : ${name}
-┃ ⎆  *BOT*   : ᴍɪʟʟɪᴇ
-┃ ⎆  *OWNER* :  ɴᴇᴇʀᴀᴊ
+┃ ⎆  *BOT*   : κιcнusᴇʀ-v³
+┃ ⎆  *OWNER* :  κιcнu
 ┃ ⎆  *PREFIX* : ᴍᴜʟᴛɪ ᴘʀᴇғɪx 
 ┃ ⎆  *WEEK* : ${week},
 ┃ ⎆  *DATE* : ${date},
@@ -181,7 +181,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
             {
               "rows": [
                 {
-                  "title": `ᴍɪʟʟɪᴇ`,
+                  "title": `κιcнusᴇʀ-v³`,
                   "description": "sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ",
                   "rowId": ".git"
                 }, {
@@ -349,13 +349,13 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
       readmore: readMore
     }
     text = text.replace(new RegExp(`%(${Object.keys(replace).sort((a, b) => b.length - a.length).join`|`})`, 'g'), (_, name) => '' + replace[name])
-    await conn.send2ButtonImg(m.chat, await (await fetch("https://raw.githubusercontent.com/Neeraj-x0/Millie/main/Millie/mills.jpeg")).buffer(), text.trim(), '© ᴍɪʟʟɪᴇ ©', 'Owner Bot', '.owner', 'All Commands', '.listt', m)
+    await conn.send2ButtonImg(m.chat, await (await fetch("https://telegra.ph/file/d4753818ba4a1d159c0a6.jpg")).buffer(), text.trim(), '© κιcнusᴇʀ-v³ ©', 'Owner Bot', '.owner', 'All Commands', '.listt', m)
   } catch (e) {
     conn.reply(m.chat, 'Sorry, Try Again', m)
     throw e
   }
 }
-handler.help = ['menu', 'help','list','millie', '?']
+handler.help = ['menu', 'help','list','kichu', '?']
 handler.tags = ['main']
 handler.command = /^(list|menu|help|millie|bot|\?)$/i
 handler.owner = false
