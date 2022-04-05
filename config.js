@@ -53,7 +53,7 @@ global.packname = sticker_name
 
 global.wait = '_*Please Wait..*_'
 global.eror = '_*Server Error*_'
-global.fla = 'https://github.com/neera-j/Bot-Files/blob/main/images/millie.jpg'
+global.fla = 'https://telegra.ph/file/d4753818ba4a1d159c0a6.jpg'
 
 global.watermark = '© κιcнusᴇʀ'
 
