@@ -171,6 +171,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
 ┃ ⎆  *PREFIX* : ᴍᴜʟᴛɪ ᴘʀᴇғɪx 
 ┃ ⎆  *WEEK* : ${week},
 ┃ ⎆  *DATE* : ${date},
+┃ ⎆  *TIME* : ${time},
 ╰━━━━━━━━━━━━━━━━━━━━━━━ \n`
           
            .trim(),
@@ -182,7 +183,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
               "rows": [
                 {
                   "title": `κιcнusᴇʀ-v³`,
-                  "description": "sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ",
+                  "description": "script will be soon bro❤",
                   "rowId": ".git"
                 }, {
                   "title": "𝗚𝗮𝗺𝗲𝘀",
@@ -357,7 +358,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
 }
 handler.help = ['menu', 'help','list','kichu', '?']
 handler.tags = ['main']
-handler.command = /^(list|menu|help|millie|bot|\?)$/i
+handler.command = /^(list|menu|help|kichu|bot|\?)$/i
 handler.owner = false
 handler.mods = false
 handler.premium = false
