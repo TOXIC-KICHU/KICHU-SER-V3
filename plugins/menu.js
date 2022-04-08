@@ -165,13 +165,14 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
           "title": `HI,
 ╭━━━━━━ᆫ ᴍᴇɴᴜ ᄀ━━━━━━
 ┃ ⎆  Oi ${ucapan()}
-┃ ⎆  *NAME* : ${name}
-┃ ⎆  *BOT*   : κιcнusᴇʀ-v³
-┃ ⎆  *OWNER* :  κιcнu
-┃ ⎆  *PREFIX* : ᴍᴜʟᴛɪ ᴘʀᴇғɪx 
-┃ ⎆  *WEEK* : ${week},
-┃ ⎆  *DATE* : ${date},
-┃ ⎆  *TIME* : ${time},
+┃ ⎆  *ɴᴀᴍᴇ* : ${name}
+┃ ⎆  *ʙᴏᴛ*   : κιcнusᴇʀ-v³
+┃ ⎆  *ᴏᴡɴᴇʀ* :  κιcнu
+┃ ⎆  *ᴘʀᴇғɪx* : ᴍᴜʟᴛɪ ᴘʀᴇғɪx 
+┃ ⎆  *ᴡᴇᴇᴋ* : ${week},
+┃ ⎆  *ᴅᴀᴛᴇ* : ${date},
+┃ ⎆  *ᴛɪᴍᴇ* : ${time},
+┃ ⎆  *ᴡᴀ ᴠᴇʀsɪᴏɴ* : ${wa_version},
 ╰━━━━━━━━━━━━━━━━━━━━━━━ \n`
           
            .trim(),
