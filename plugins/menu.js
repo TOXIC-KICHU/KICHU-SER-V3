@@ -183,7 +183,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
               "rows": [
                 {
                   "title": `κιcнusᴇʀ-v³`,
-                  "description": "script will be soon bro❤",
+                  "description": "",
                   "rowId": ".git"
                 }, {
                   "title": "𝗚𝗮𝗺𝗲𝘀",
