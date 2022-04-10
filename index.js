@@ -9,7 +9,7 @@ CFonts.say('κιcнusᴇʀ', {
   font: 'block',
   align: 'center',
 })
-CFonts.say(`'${package.name}' By @${package.author.name || package.author}`, {
+CFonts.say(`'KICHU SER V3' By Kichu`, {
   colors: ['#f2aa4c'],
   font: 'console',
   align: 'center',
