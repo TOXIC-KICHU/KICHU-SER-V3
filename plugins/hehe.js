@@ -5,7 +5,7 @@ let info = `
 *https://github.com/Itsme-soman/KICHU-SER-V3*
 `.trim()
 
-conn.fakeReply(m.chat, info, '0@s.whatsapp.net', '*Hehe*', 'status@broadcast')
+conn.fakeReply(m.chat, info, '0@s.whatsapp.net', '*Hehe*', 'status@broadcast', 'thumbnail: fs.readFileSync('.src/kichu.jpg')
 }
 handler.help = ['git']
 handler.tags = ['tutor']
