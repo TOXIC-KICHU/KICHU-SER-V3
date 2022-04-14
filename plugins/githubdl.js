@@ -1,10 +1,10 @@
 let handler = async (m, { args, usedPrefix, command }) => {
 
-    if (!args[0]) throw 'where is the username bro?\nExample Neeraj-x0'
-    if (!args[1]) throw 'where is the repo??\nExample Millie'
+    if (!args[0]) throw 'where is the username bro?\nExample Itsme-soman'
+    if (!args[1]) throw 'where is the repo??\nExample KICHU-SER-V3'
     
     let url = `https://github.com/${args[0]}/${args[1]}/archive/refs/heads/main.zip`
-    //ByRizkyAdi
+    //ByKichu
     m.reply(`waiting for compress to zip`)
     conn.sendFile( m.chat, url, 'repo.zip', null, m)
     
