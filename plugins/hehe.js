@@ -4,6 +4,9 @@ let info = `
 *Here, thanks, I'm so sorry you press y, that's the link*
 *https://github.com/Itsme-soman/KICHU-SER-V3*
 `.trim()
+        {
+          await conn.sendButtonImg(m.chat, await (await fetch(rank)).buffer(), `@${global.conn.user.jid.split('@')[0]} *Deploy it bro✨👣*`.trim(), '©κιcнusᴇʀ', 'TAKE IT BRO', 'TNX FOR SPRT', m)
+        }
 
 conn.fakeReply(m.chat, info, '0@s.whatsapp.net', '*Hehe*', 'status@broadcast', 'thumbnail')
 }
