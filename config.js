@@ -38,7 +38,7 @@ global.packname = ' κιcнusᴇʀ 😇'
 
 global.wait = '_*Please Wait..*_'
 global.eror = '_*Server Error*_'
-global.fla = 'https://github.com/neera-j/Bot-Files/blob/main/images/millie.jpg'
+global.fla = './src/kichu.jpg'
 
 global.watermark = '©κιcнusᴇʀ'
 
