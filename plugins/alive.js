@@ -23,7 +23,7 @@ let handler  = async (m, { conn }) => {
 ツ *ʙʀᴏᴡsᴇʀ* : ${conn.browserDescription[1]}
 ツ *ᴜᴘᴛɪᴍᴇ ʙᴏᴛ* : ${clockString(process.uptime() * 1000)}
 ツ *ʜᴏsᴛ ɴᴜᴍʙᴇʀ* : @${global.conn.user.jid.split('@')[0]}
-ツ *ʙɪᴏ ʙᴏᴛ* : active during time 2:39:3|Mode: public|kichu ser v3`, quoted: m, sendEphemeral: true, thumbnail: fs.readFileSync('https://a.uguu.se/DalCFfoB.mp4'), contextInfo: { mentionedJid: [global.conn.user.jid]}})
+ツ *ʙɪᴏ ʙᴏᴛ* : active during time 2:39:3|Mode: public|kichu ser v3`, quoted: m, sendEphemeral: true, thumbnail: fs.readFileSync('./src/alive.mp4'), contextInfo: { mentionedJid: [global.conn.user.jid]}})
 }
 handler.help = ['alive']
 handler.tags = ['main']
