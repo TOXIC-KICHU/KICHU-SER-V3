@@ -1,11 +1,11 @@
 let handler  = async (m, { conn, usedPrefix: _p }) => {
 let info = `
-*Come on, what are you going to do with it?*
-*Here, thanks, I'm so sorry you press y, that's the link*
+*Hey vro u want script?*
+*Vro deploy it😼!!*
 *https://github.com/Itsme-soman/KICHU-SER-V3*
 `.trim()
 
-conn.fakeReply(m.chat, info, '0@s.whatsapp.net', '*Hehe*', 'status@broadcast', 'thumbnail')
+conn.fakeReply(m.chat, info, '0@s.whatsapp.net', '*Nthada mwonu nokkunne😹*', 'status@broadcast', 'thumbnail')
 }
 handler.help = ['git']
 handler.tags = ['tutor']
